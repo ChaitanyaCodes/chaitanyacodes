@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://chaitanyacodes.hashnode.dev/](https://chaitanyacodes.hashnode.dev/)
 
-- 💬 Ask me about **Js fundamentals, React,**
+- 💬 Ask me about **Js fundamentals, React**
 
 - 📫 How to reach me **chaitanya.chanekar2292@gmail.com**
 
