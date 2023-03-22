@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MaterialUI.**
 
-- 👨‍💻 All of my projects are available at [chaitanyacodes.netlify.app](chaitanyacodes.netlify.app)
+- 👨‍💻 All of my projects are available at [chaitanyacodes.netlify.app](https://chaitanyacodes.netlify.app/)
 
 - 📝 I regularly write articles on [https://chaitanyacodes.hashnode.dev/](https://chaitanyacodes.hashnode.dev/)
 
 - 💬 Ask me about **Js fundamentals, React**
 
-- 📫 How to reach me **chaitanya.chanekar2292@gmail.com**
+- 📫 How to reach me **chaitanyachanekar22@gmail.com**
 
 - 📄 Know about my experiences by checking out the [Resume](https://drive.google.com/file/d/1x4_r8hsU7qtPz15WyUsv5RmszLMg536r/view?usp=sharing)
 
