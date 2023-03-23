@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chaitanyachanekar22@gmail.com**
 
-- 📄 Know about my experiences by checking out the [Resume](https://drive.google.com/file/d/1x4_r8hsU7qtPz15WyUsv5RmszLMg536r/view?usp=sharing)
+- 📄 Know about my experiences by checking out the [Resume](https://drive.google.com/file/d/15Xvp8U99dRhBt4tgtPZEhC_homGeomIt/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
