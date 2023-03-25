@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [100cc-store](https://github.com/ChaitanyaCodes/100cc-strore-frontend)
 
-- 🌱 I’m currently learning **MaterialUI.**
+- 🌱 I’m currently learning **MaterialUI, TypeScript.**
 
 - 👨‍💻 All of my projects are available at [chaitanyacodes.netlify.app](https://chaitanyacodes.netlify.app/)
 
